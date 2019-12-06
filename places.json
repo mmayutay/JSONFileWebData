@@ -1,0 +1,145 @@
+[
+  {
+    "_id": {
+      "$oid": "5dd368484e9df3277024425e"
+    },
+    "location": "Apas",
+    "routes": [
+      "17B",
+      "17C",
+      "17D"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df3277024425f"
+    },
+    "location": "Ayala",
+    "routes": [
+      "14D"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244260"
+    },
+    "location": "Banawa",
+    "routes": [
+      "07B"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244261"
+    },
+    "location": "Basak Pardo",
+    "routes": [
+      "09F",
+      "09C",
+      "09G"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244262"
+    },
+    "location": "Bulacao",
+    "routes": [
+      "10H",
+      "10M",
+      "10F",
+      "10E",
+      "10G",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244265"
+    },
+    "location": "Guadalupe",
+    "routes": [
+      "06C",
+      "06F",
+      "06B"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244266"
+    },
+    "location": "Lahug",
+    "routes": [
+      "17C",
+      "17B",
+      "17D",
+      "04C",
+      "04I",
+      "04H"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244267"
+    },
+    "location": "Labangon",
+    "routes": [
+      "12D",
+      "12G",
+      "12I",
+      "12L"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244268"
+    },
+    "location": "Inayawan",
+    "routes": [
+      "11A"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df32770244269"
+    },
+    "location": "Pier",
+    "routes": [
+      "01B",
+      "01C",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df3277024426a"
+    },
+    "location": "Talamban",
+    "routes": [
+      "13C",
+      "13B",
+      "62C",
+      "62B"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd368484e9df3277024426b"
+    },
+    "location": "Pit-os",
+    "routes": [
+      "62B",
+      "62C",
+      ""
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5dd3d756a632954ae08fa447"
+    },
+    "location": "Urgello",
+    "routes": [
+      "01K"
+    ]
+  }
+]
